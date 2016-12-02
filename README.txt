@@ -16,7 +16,7 @@ Usage:
 - Push Compute prediction (only for alpha = 1.5, beta = -0.6  )
 - Push Design Linear SMV for linear arrangemets or Design Arc SMV for arc arrangements
 
-A description of the tool can be found in 
+A description of the tool can be found in MVPDM_tool_manual.doc
 
 
 Contact: Pablo Carballeira López, Grupo de Tratamiento de Imágnes, Universidad Politécnica de Madrid, pcl@gti.ssr.upm.es
